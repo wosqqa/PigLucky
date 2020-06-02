@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PigRankSceneSkin" id="PigRankSceneSkin" width="750" height="1334"  xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="170c92b4c69" ></w:Config>
+	<e:Rect width="750" height="1334" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="1" fillAlpha="0.6"/>
+	<e:Image source="uibgImgs_json.rankbg" x="175" y="490" anchorOffsetX="118" anchorOffsetY="284"/>
+	<e:Image source="actionImgs_json.invite" x="308.5" y="1106" anchorOffsetX="60" anchorOffsetY="60"/>
+	<e:Image source="uibgImgs_json.itembg" x="135" y="374"/>
+	<e:Image source="uibgImgs_json.itembg" x="135" y="500"/>
+	<e:Image source="actionImgs_json.1" x="158" y="396"/>
+	<e:Image id="dclose" source="actionImgs_json.close" x="635" y="272"/>
+	<e:Image source="actionImgs_json.2" x="164" y="524"/>
+	<e:Label text="卡卡辅助" x="300" y="394" anchorOffsetX="0" width="112" anchorOffsetY="0" height="36" size="22" textColor="0xf72727" bold="true"/>
+	<e:Label text="开心福猪" x="309" y="432" size="24"/>
+	<e:Label text="10.8m" x="514" y="432" textColor="0x891616" size="28" bold="true"/>
+	<e:Image width="64" height="64" x="215" y="394" anchorOffsetX="0" anchorOffsetY="0" source="dfttth_png"/>
+	<e:Image width="64" height="64" x="220.5" y="518" anchorOffsetX="0" anchorOffsetY="0" source="dfttth_png"/>
+	<e:Scroller width="498" height="658" x="128" y="352" anchorOffsetY="0" anchorOffsetX="0">
+		<e:Group anchorOffsetX="0" width="492" anchorOffsetY="0" height="658" x="6" y="0"/>
+	</e:Scroller>
+</e:Skin>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PigDocSceneSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1710fd902b5" ></w:Config>
+	<e:Rect width="750" height="1334" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="1" fillAlpha="0.6"/>
+	<e:Image source="uibgImgs_json.helpview" x="72.06" y="161.49"/>
+	<e:Image id="close" source="actionImgs_json.close" x="624" y="164.52"/>
+</e:Skin>

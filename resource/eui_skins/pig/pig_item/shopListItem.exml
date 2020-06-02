@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="shopListItemSkin" width="463" height="95" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1711b1dd21c" ></w:Config>
+	<e:Group x="28">
+		<e:Rect width="463" height="80" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="30" fillColor="0xeddfd9" strokeColor="0xd39c84" ellipseHeight="30"/>
+		<e:Image source="{data.source}" x="60" y="7" scaleX="0.15" scaleY="0.15"/>
+		<e:Rect width="30" height="34" x="15" y="21" fillColor="0xdb4342"/>
+		<e:Label text="{data.level}" x="19" y="27" textColor="0xfcf9f9" size="22"/>
+		<e:Label text="{data.name}" x="139.5" y="25" textColor="0x5b0909" bold="true" size="26"/>
+		<e:Rect width="106" height="45" x="335" y="17" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xe43b36" ellipseWidth="50" ellipseHeight="50" strokeColor="0xfee557" strokeWeight="2"/>
+		<e:Label text="{data.callMax}" x="347" y="27" textColor="0xfee557" size="24"/>
+	</e:Group>
+</e:Skin>

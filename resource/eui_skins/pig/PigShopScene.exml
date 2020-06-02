@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PigShopSceneSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1710fe86ee9" ></w:Config>
+	<e:Rect width="750" height="1334" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="1" fillAlpha="0.6"/>
+	<e:Image source="uibgImgs_json.kuang" x="84.97" y="227.39" anchorOffsetX="0" width="616" anchorOffsetY="0" height="800"/>
+	<e:Image source="uibgImgs_json.titlebg" x="135.6" y="312.97" scaleX="0.9" scaleY="0.9"/>
+	<e:Label text="福气值：188.88m" x="224" y="317.11" anchorOffsetX="0" width="302" anchorOffsetY="0" height="62" textColor="0x600e0e" verticalAlign="middle" size="32" bold="true" fontFamily="Microsoft YaHei"/>
+	<e:Rect width="515" height="575" x="117.5" y="413.18" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="1" fillAlpha="0.9" ellipseWidth="20" ellipseHeight="20" fillColor="0xdbc1b2" strokeWeight="3" strokeColor="0xd39c84"/>
+	<e:Scroller width="515" height="549" x="117.5" y="425.18" anchorOffsetY="0">
+		<e:List id="myList" width="515" height="575" anchorOffsetX="0" anchorOffsetY="0"   itemRendererSkinName="shopListItemSkin">
+			<e:Group id="myItemList">
+				<e:layout>
+					<e:VerticalLayout horizontalAlign="center"  gap="15"/>
+				</e:layout>
+			</e:Group>
+		</e:List>
+		
+	</e:Scroller>
+	<e:Image id="close" source="actionImgs_json.close" x="631.6" y="231.96"/>
+	
+</e:Skin>

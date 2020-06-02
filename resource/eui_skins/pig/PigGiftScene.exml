@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PigGiftSceneSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1710fdd4be1" ></w:Config>
+	<e:Rect width="750" height="1334" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="1" fillAlpha="0.6"/>
+	<e:Image source="uibgImgs_json.invitebg" x="54.97" y="112.3"/>
+	<e:Image source="actionImgs_json.invite" x="239.33" y="915.21"/>
+	<e:Label text="8.8b" x="318.83" y="860" textColor="0x820303" bold="true" size="32"/>
+	<e:Rect id="close" width="64" height="62" x="631.97" y="186" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x000000" fillAlpha="0"/>
+</e:Skin>

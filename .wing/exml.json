@@ -1,0 +1,35 @@
+{
+    "170c8731a9e": {
+        "path": "..\\resource\\eui_skins\\pig\\PigStartDesk.ts",
+        "class": "PigStartDesk",
+        "parentPath": "",
+        "guideLinesEnabled": false
+    },
+    "global": {
+        "gridColor": 15013398,
+        "gridEnabled": false,
+        "gridSize": "70",
+        "globalRulerEnable": true,
+        "globalAutoLayerMarkEnable": false
+    },
+    "170c92b4c69": {
+        "path": "..\\resource\\assets\\pig\\PigDialog.ts",
+        "class": "PigDialog",
+        "parentPath": ""
+    },
+    "170ccb8030d": {
+        "path": "..\\resource\\eui_skins\\pig\\PigPlayDoc.ts",
+        "class": "PigPlayDoc",
+        "parentPath": ""
+    },
+    "170ce793c70": {
+        "path": "..\\resource\\assets\\pig\\PigShop.ts",
+        "class": "PigShop",
+        "parentPath": ""
+    },
+    "1711b1dd21c": {
+        "path": "..\\resource\\eui_skins\\pig\\pig_item\\shopListItem.ts",
+        "class": "shopListItem",
+        "parentPath": ""
+    }
+}
